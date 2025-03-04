@@ -1,5 +1,2 @@
-langserve
-fastapi
-uvicorn
-langchain-community
-sse_starlette
+langchain
+openai
